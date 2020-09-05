@@ -1,3 +1,8 @@
+/**************************************/
+/* author: Shahar maimon              */
+/* date: 02.27.20                     */
+/**************************************/
+
 #include <assert.h> /* assert */
 #include <stdlib.h> /* malloc */
 #include <stdio.h> /* fprintf */
